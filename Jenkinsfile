@@ -15,7 +15,7 @@ pipeline {
 
     stage('Deploy to Server') {
       steps {
-        echo bat 'loi'
+        bat 'loi'
       }
     }
 
