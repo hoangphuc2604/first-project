@@ -15,7 +15,7 @@ pipeline {
 
     stage('Deploy to Server') {
       steps {
-        echo 'Trien khai len may chu hoan tat.'
+        echo bat 'loi'
       }
     }
 
